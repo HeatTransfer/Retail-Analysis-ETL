@@ -1,4 +1,6 @@
+CREATE DATABASE IF NOT EXISTS et_db;
 USE etl_db;
+
 SHOW TABLES;
 CREATE TABLE retail_orders (
 	order_id INT PRIMARY KEY,
