@@ -29,6 +29,8 @@ The objective of this project is to provide a comprehensive example of a data pi
 ## Project Structure
 
 ```
+├── data/
+│   └── orders.csv( raw data )
 ├── notebooks/
 │   └── ETL_Retail_Analysis.ipynb
 ├── sql_scripts/
